@@ -19,6 +19,10 @@ This project analyzes retail bank customer churn to identify key drivers of cust
 3. **Geographic Distribution:** Germany exhibits higher customer loss rates relative to total account balances compared to France and Spain.
 4. **Behavioral Activity:** Inactive accounts churn at twice the rate of active members, particularly among customers holding credit cards.
 
+<img width="1247" height="697" alt="image" src="https://github.com/user-attachments/assets/5d0c2458-a1d1-45fc-b0de-ff3bc3bf3ad2" />      <img width="1245" height="698" alt="image" src="https://github.com/user-attachments/assets/c8f9fa8c-8947-45d2-805e-adf4abfc3728" />
+
+
+
 ---
 
 ## 📂 Project Structure
